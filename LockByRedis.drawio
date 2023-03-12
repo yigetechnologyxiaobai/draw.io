@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T07:22:11.152Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="JLv4R_QMqw5hS30NA5ic" type="github"><diagram name="第 1 页" id="-kaV2-8qh5Q5JsNj7Piq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-12T07:22:59.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YKFt5_8s28o97cAb7PTm" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="-kaV2-8qh5Q5JsNj7Piq">
+    <mxGraphModel dx="1026" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JePa9RabvB6esV8AildJ-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="180" y="97" as="sourcePoint" />
+            <mxPoint x="180" y="169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="260" y="97" as="sourcePoint" />
+            <mxPoint x="260" y="169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="221" y="97" as="sourcePoint" />
+            <mxPoint x="221" y="169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="299" y="97" as="sourcePoint" />
+            <mxPoint x="299" y="169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="379" y="97" as="sourcePoint" />
+            <mxPoint x="379" y="169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="340" y="97" as="sourcePoint" />
+            <mxPoint x="340" y="169" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JePa9RabvB6esV8AildJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278.20000000000005" y="277.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JePa9RabvB6esV8AildJ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381" y="116" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="201" />
+              <mxPoint x="475" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-9" value="获取锁&lt;br&gt;失败重试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JePa9RabvB6esV8AildJ-8">
+          <mxGeometry x="-0.0553" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-10" value="多个线程同时执行&lt;br&gt;setnx lock xxx&lt;br&gt;只有一个可以执行成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="171" width="354" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JePa9RabvB6esV8AildJ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278.20000000000005" y="385.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-12" value="获取到锁执行业务逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="278" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JePa9RabvB6esV8AildJ-14" target="JePa9RabvB6esV8AildJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-14" value="释放锁，执行：&lt;br&gt;del lock" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="385" width="241" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JePa9RabvB6esV8AildJ-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="228" y="484" width="100" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
